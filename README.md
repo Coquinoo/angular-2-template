@@ -18,7 +18,7 @@ https://github.com/buckyroberts/angular-2-template.git
 
 ### Install Libraries and Dependencies
 
-Once you have the files downloaded, navigate into the root project directory and run the following command. This will
+Once you have the files downloaded navigate into the root project directory and run the following command. This will
 install all libraries and dependencies.
 
 `npm install`
